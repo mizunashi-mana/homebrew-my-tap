@@ -22,5 +22,6 @@ class Ghcup < Formula
   end
 
   test do
+    system "#{bin}/ghcup", "--version"
   end
 end
