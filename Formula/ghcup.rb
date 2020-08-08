@@ -2,9 +2,9 @@ class Ghcup < Formula
   desc "An installer for the general purpose language Haskell"
   homepage "https://www.haskell.org/ghcup/"
   url "https://gitlab.haskell.org/haskell/ghcup-hs/-/archive/v0.1.8/ghcup-hs-v0.1.8.tar.gz"
-  sha256 "88f9d033ece7fd51eca3abb4f02e13b63c924b97f9705a997d5a711c0cf42ab1"
+  sha256 "661791f67681268ea20243a2b771d40f59122ee7a88bd7ff4a34231bc3206ca5"
   license "LGPL-3.0-only"
-  head "https://gitlab.haskell.org/haskell/ghcup-hs.git", branch: "devel"
+  head "https://gitlab.haskell.org/haskell/ghcup-hs.git"
 
   bottle do
     cellar :any
