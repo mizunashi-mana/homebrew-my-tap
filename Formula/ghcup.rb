@@ -1,4 +1,4 @@
-class Ansible < Formula
+class Ghcup < Formula
   desc "An installer for the general purpose language Haskell"
   homepage "https://www.haskell.org/ghcup/"
   url "https://gitlab.haskell.org/haskell/ghcup-hs/-/archive/v0.1.8/ghcup-hs-v0.1.8.tar.gz"
